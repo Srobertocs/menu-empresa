@@ -1,4 +1,4 @@
-# menu-empresa
+# Criação de um menu de uma empresa
 
 Aplicação em java usando menu infinito para criar o cadastro de um empresa e o cadastro dos seus funcionario. Introdução e aplicação dos conceitos de programação orientada a objeto. 
 
